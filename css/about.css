@@ -1,0 +1,15 @@
+body{
+	background: none;
+	height: 100vh;
+}
+section.about-me{
+	margin: 0;
+	height: 90vh;
+	background:  #223c5d;
+}
+section.about-me h1{
+    color: red;
+}
+section.about-me p{
+    color: #ffffffcf;
+}
